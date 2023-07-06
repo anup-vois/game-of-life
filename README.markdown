@@ -1,3 +1,9 @@
+## Project INFO
+Hello All I'm Anup Kumar this **game-of-life** a Maven project supports CI/CD where we involved to make our project speed and smoothy to the end-user.
+
+**TOOLS Required**
+GitHub Maven Jenkins ApacheTomcat Basics AWS services needed like EC2 IAM S3
+
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 
 ## Building the project
