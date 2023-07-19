@@ -107,6 +107,7 @@
         } catch (IOException ioe) {
             ioe.printStackTrace();
         }
+
     }
 %>
 <div class="footer">Game Of Life version <%=appVersion%>
