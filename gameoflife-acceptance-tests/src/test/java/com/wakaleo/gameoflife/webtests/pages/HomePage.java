@@ -19,3 +19,4 @@ public class HomePage extends GameOfLifePage {
         newGameLink.click();
     }
 }
+
