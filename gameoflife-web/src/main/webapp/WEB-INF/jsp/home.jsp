@@ -22,6 +22,7 @@
             color: rgb(25, 25, 25)
         }
 
+
         .footer {
             color: white;
             font-size: medium;
