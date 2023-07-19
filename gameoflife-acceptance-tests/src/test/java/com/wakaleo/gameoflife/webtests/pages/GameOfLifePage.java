@@ -20,3 +20,4 @@ public class GameOfLifePage extends PageObject {
         homeLink.click();
     }
 }
+
