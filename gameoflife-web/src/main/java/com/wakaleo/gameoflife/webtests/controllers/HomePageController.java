@@ -24,3 +24,4 @@ public class HomePageController {
         return new ModelAndView("home");
     }
 }
+
